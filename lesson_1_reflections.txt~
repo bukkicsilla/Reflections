@@ -1,0 +1,13 @@
+reflections about how to use git and github
+
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+It shows the differences in the old and the new files.
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+Debugging can be faster, to work with others can be easier.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+Staging area contains the files which will be added, deleted or updated in the repository. Unchanged files dont need to be 
+commited to repository. Working directory contains only the current files. 
+
+git diff shows the differance between the working directory and staging area
