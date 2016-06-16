@@ -14,3 +14,6 @@ git diff shows the differance between the working directory and staging area
 
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 If I want to try something new, but I dont know yet whether it will be in the final version. Context switching
+
+How do the diagrams help you visualize the branch structure?
+It has a tree structure. I can see where are the branchings. I have to use the command git log --graph --oneline [some branch names]
