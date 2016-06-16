@@ -16,6 +16,8 @@ git log --graph --oneline master short-mode
 
 git checkout -b new_branch_name = git branch new_branch_name, git checkout new_branch_name
 
+delete: git branch -d bracnh_name
+
 <<<<<<< HEAD
 git diff shows the differance between the working directory and staging area
 
