@@ -18,8 +18,6 @@ git checkout -b new_branch_name = git branch new_branch_name, git checkout new_b
 
 delete: git branch -d bracnh_name
 
-<<<<<<< HEAD
-
 //these lines were deleted by merge , why???
 How did viewing a diff between two versions of a file help you see the bug that was introduced?
 It shows the differences in the old and the new files.
@@ -39,5 +37,6 @@ If I want to try something new, but I dont know yet whether it will be in the fi
 
 How do the diagrams help you visualize the branch structure?
 It has a tree structure. I can see where are the branchings. I have to use the command git log --graph --oneline [some branch names]
-=======
->>>>>>> short-mode
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+The result can cause conflict. I had to resolve one. Thanks for udacity!
