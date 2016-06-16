@@ -9,3 +9,5 @@ Debugging can be faster, to work with others can be easier.
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 Staging area contains the files which will be added, deleted or updated in the repository. Unchanged files dont need to be 
 commited to repository. Working directory contains only the current files. 
+
+git diff shows the differance between the working directory and staging area
