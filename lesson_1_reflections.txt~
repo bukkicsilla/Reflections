@@ -12,5 +12,7 @@ On branch short-mode
 nothing to commit, working directory clean
 context switching
 
-git log --graph --oneline
+git log --graph --oneline master short-mode
+
+git checkout -b new_branch_name
 
