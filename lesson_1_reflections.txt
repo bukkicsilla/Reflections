@@ -10,4 +10,7 @@ git checkout another
 
 On branch short-mode
 nothing to commit, working directory clean
+context switching
+
+git log --graph --oneline master short-mode
 
