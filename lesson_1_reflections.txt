@@ -13,4 +13,4 @@ commited to repository. Working directory contains only the current files.
 git diff shows the differance between the working directory and staging area
 
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
-If I want to try something new, but I dont know yet whether it will be in the final version.
+If I want to try something new, but I dont know yet whether it will be in the final version. Context switching
