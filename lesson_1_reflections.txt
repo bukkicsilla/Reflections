@@ -40,3 +40,20 @@ It has a tree structure. I can see where are the branchings. I have to use the c
 
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 The result can cause conflict. I had to resolve one. Thanks for udacity!
+
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+Avoiding conflict. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
