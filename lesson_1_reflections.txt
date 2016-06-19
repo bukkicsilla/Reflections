@@ -44,6 +44,11 @@ The result can cause conflict. I had to resolve one. Thanks for udacity!
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 Avoiding conflict. 
 
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+Branching means I can make a new path (of commits) starting from master or a different commit back in history. Cloning means that I can copy 
+the whole repository localy or remotely. Forking means that I can clone a repository from another github account.
+
+
 
 
 
