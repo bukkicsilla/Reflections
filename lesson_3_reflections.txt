@@ -1,0 +1,2 @@
+Why would you create a remote repository rather than keeping all your work local?
+Because the data can be lost on my computer. or If I have to work with others.
